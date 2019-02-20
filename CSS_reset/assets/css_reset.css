@@ -1,0 +1,34 @@
+body, html, header, figure, footer, aside, h1, h2, ul, li, ol, p, form {
+  margin: 0; 
+  border: 0; 
+  padding: 0;
+
+  font-size: 100%;
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+}
+
+ul, ol {
+  all: none;
+}
+
+ul, ol {
+  list-style: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.ingredients-list {
+
+  /* The list style property is shorthand for multiple list-style properties*/
+  list-style: none;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%; 
+}
